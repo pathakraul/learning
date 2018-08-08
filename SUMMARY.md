@@ -12,3 +12,7 @@
 ## Projects
 * Projects
   * [Projects](Projects/readme.md)
+
+## Notebooks
+  * [Python](Notebooks/Python/readme.md)
+  * [Machinelearning](Notebooks/Machinelearning/readme.md)
