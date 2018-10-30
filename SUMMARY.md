@@ -12,3 +12,4 @@
 ## Projects
 * Projects
   * [Projects](Projects/readme.md)
+  * [Personal](Personal/readme.md)
